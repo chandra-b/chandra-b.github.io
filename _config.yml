@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Chandra Bhagavatula"
   avatar           : "profile.png"
-  bio              : "Researcher at the Allen Institute for AI"
-  location         : "Seattle"
-  employer         :
+  bio              : "Researcher"
+  location         :
+  employer         : "AI2"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=AsgHp14AAAAJ&hl=en"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chandrabhagavatula/"
   orcid            :
   pinterest        :
   soundcloud       :
